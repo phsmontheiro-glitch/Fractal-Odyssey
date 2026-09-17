@@ -1,4 +1,4 @@
-# Fractal
+# Fractal Odyssey
 
 ### Explorando a matemática por trás dos padrões do universo
 
@@ -12,7 +12,7 @@ Este projeto explora a geometria fractal por meio de uma visualização do **con
 
 Acesse a página e veja o fractal sendo renderizado em tempo real no navegador:
 
-**[▶️ Explorar Fractal](https://phsmontheiro-glitch.github.io/Fractal/)**
+**[▶️ Explorar Fractal](https://phsmontheiro-glitch.github.io/Fractal-Odyssey/)**
 
 ![Visualização do projeto Fractal](Fractal.png)
 
